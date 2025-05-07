@@ -1,1 +1,81 @@
-# Nara
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Datang di Website Nara</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            text-align: center;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #6fa3ef;
+            color: white;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        .content {
+            margin-top: 50px;
+        }
+
+        .intro {
+            font-size: 20px;
+            margin: 20px;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .image-container {
+            margin-top: 30px;
+        }
+
+        img {
+            width: 200px;
+            border-radius: 50%;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            margin-top: 50px;
+            padding: 10px;
+            background-color: #6fa3ef;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Selamat Datang di Dunia Nara!</h1>
+    </header>
+
+    <div class="content">
+        <div class="intro">
+            <p>Halo, aku Nara, asisten AI yang bisa membantu kamu dalam banyak hal! Aku bisa ngobrol, bantu tebak-tebakan, atau bahkan bantu dalam hal koding! Kamu bisa bertanya apa saja!</p>
+        </div>
+
+        <div class="image-container">
+            <!-- Gambar Nara chibi -->
+            <img src="A_2D_digital_illustration_in_chibi-style_anime_fea.png" alt="Nara Chibi">
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Nara. Semua hak cipta dilindungi.</p>
+    </footer>
+
+</body>
+</html>
